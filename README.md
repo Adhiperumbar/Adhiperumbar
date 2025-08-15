@@ -30,6 +30,7 @@ Sahyadri College of Engineering and Management, Mangalore
 [LinkedIn](https://linkedin.com/in/adhishri-perumbaru)  
 ✉️ adhishriperumbaru@gmail.com
 ![Python](https://img.shields.io/badge/python-3.8-blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+![Adhishri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adhiperumbar&show_icons=true)
+
 
 
