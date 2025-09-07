@@ -5,14 +5,13 @@ Sahyadri College of Engineering and Management, Mangalore
 
 ---
 
-💻 **Tech Stack:** Python | JavaScript | Node.js | SQL | MongoDB (Firebase - learning)  
-🛠️ Full-stack developer in training—applying my skills through projects, hackathons, and coursework
+💻 **Tech Stack:** Python | JavaScript | Node.js | SQL | MongoDB |Java(Basic) 
+🛠️  Developer in training—applying my skills through projects, hackathons, and coursework
 
 ---
 
 ## 🚀 What I'm Working On
 - Building and improving hands-on projects in full-stack web and machine learning
-- Actively learning how to deploy real-world apps and use Firebase for my final-year project
 - Documenting my daily Data Structures & Algorithms practice (arrays, strings, linked lists, etc.)
 
 ---
